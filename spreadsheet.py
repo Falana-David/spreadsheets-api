@@ -32,7 +32,7 @@ thisdict = {
 
 new_list = [thisdict.get("Company"), thisdict.get("Date"), thisdict.get("Service Provider")
 ,thisdict.get("How Many #'s Submitted"), thisdict.get("Override")
-,thisdict.get("How Many?"),thisdict.get("Decision")]
+,thisdict.get("How Many"),thisdict.get("Decision")]
 
 # Value Of This Should Be 7
 #x = len(new_list)
